@@ -1,0 +1,12 @@
+<permissions>
+  <privapp-permissions package="com.oasisfeng.greenify">
+    <permission name="android.permission.UPDATE_CONFIG"/>
+    <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+    <permission name="android.permission.GET_APP_OPS_STATS"/>
+    <permission name="android.permission.DUMP"/>
+    <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <permission name="android.permission.FORCE_STOP_PACKAGES"/>
+    <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+    <permission name="android.permission.READ_LOGS"/>>
+  </privapp-permissions>
+</permissions>
