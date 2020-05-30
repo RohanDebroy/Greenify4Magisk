@@ -13,12 +13,12 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 ## Changelog?:
 All notable changes to this project will be documented in this file.
 
-###2020-05-30
+### 2020-05-30
 - Support for Magisk v20.0 +
 - Greenify app updated to play store v4.7.5
 - Switched to [MMT-Extended](https://github.com/Zackptg5/MMT-Extended) Template by [Zackptg5](https://github.com/Zackptg5)
 
-###2019-05-29
+### 2019-05-29
 - Initial build
 - Greenify app version V4.6.3(BETA)
 
