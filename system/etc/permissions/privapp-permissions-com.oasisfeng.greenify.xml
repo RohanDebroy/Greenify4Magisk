@@ -7,6 +7,6 @@
     <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
     <permission name="android.permission.FORCE_STOP_PACKAGES"/>
     <permission name="android.permission.INTERACT_ACROSS_USERS"/>
-    <permission name="android.permission.READ_LOGS"/>>
+    <permission name="android.permission.READ_LOGS"/>
   </privapp-permissions>
 </permissions>

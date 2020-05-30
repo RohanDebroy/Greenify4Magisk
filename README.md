@@ -1,8 +1,4 @@
-<p align="center">
-<b> Greenify4Magisk </b><br>
-</p>
-
-* This module was originally created by [Abacate123](https://forum.xda-developers.com/member.php?u=6439974) but was deprecated. I am simply continuing his work.
+<h1 align="center">Greenify4Magisk</h1>
 
 
 ## Module Explanation:
@@ -11,28 +7,34 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 * Note: You won't get any xposed-side features, since magisk is NOT xposed!
 
 ## Requirements: 
-- Android 5.0 - 9.0.0
-- Magisk v18.0+
+- Android 5.0 - 10.0
+- Magisk v20.0+
 
 ## Changelog?:
-* Initial build
-* Greenify app version V4.6.3(BETA)
+All notable changes to this project will be documented in this file.
+
+###2020-05-30
+- Support for Magisk v20.0 +
+- Greenify app updated to play store v4.7.5
+- Switched to [MMT-Extended](https://github.com/Zackptg5/MMT-Extended) Template by [Zackptg5](https://github.com/Zackptg5)
+
+###2019-05-29
+- Initial build
+- Greenify app version V4.6.3(BETA)
 
 ## About the apk:
-* Apk downloaded directly from [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's APKMirror page"), **original and not tampered in any way**.
+* Apk downloaded directly from [Play Store](https://play.google.com), [APKMirror](http://www.apkmirror.com/apk/oasis-feng/greenify/ "Greenify's APKMirror page"), **original and not tampered in any way**.
 
 ## Installation:
-* This module already has the latest apk inside, just download one of zips from the mirror and install through the Magisk Manager app or TWRP. As simple as that.
+* This module already has the latest apk inside, just download one of zips from the mirror and install through the Magisk Manager app.
 
 ## How to remove:
-* You can simply flash the same zip again to remove the module, or you can remove through the Magisk Manager "modules" section as well.
+* You can use Magisk Manager to uninstall the module.
 
 # Credits:
-* Greenify4Magisk Original Developer-[Abacate123](https://forum.xda-developers.com/member.php?u=6439974).
-
 * Greenify Developer - [Oasis Feng](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify "Greenify's Play Store page").
 
 * Magisk Developer - [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445 "Magisk official XDA thread").
 
 ### Third party code used:
-* [Unity Template](https://github.com/Zackptg5/Unity "Template's repository").
+* [MMT-Extended](https://github.com/Zackptg5/MMT-Extended "Template's repository").
