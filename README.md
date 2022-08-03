@@ -1,5 +1,6 @@
-<h1 align="center">Greenify4Magisk</h1>
+# Flash at your own risk!!!
 
+<h1 align="center">Greenify4Magisk</h1>
 
 ## Module Explanation:
 A very simple module just to make Greenify work as a rom-integrated (privileged) app systemlessly (also known as Boost Mode), so you'll achieve the best hibernating performance it could give, and faster than using the root option only. It'll simply inject a folder with the apk into the path: /system/priv-app. If it shows Privileged at the app settings, then you're good.
@@ -7,11 +8,14 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 * Note: You won't get any xposed-side features, since magisk is NOT xposed!
 
 ## Requirements: 
-- Android 5.0 - 10.0
-- Magisk v20.0+
+- Magisk v20.4+
 
 ## Changelog?:
 All notable changes to this project will be documented in this file.
+
+### 2022-08-03
+- Updated the MMT-Template to v2
+- Updated the greenify app to v4.7.8 beta
 
 ### 2020-05-30
 - Support for Magisk v20.0 +
