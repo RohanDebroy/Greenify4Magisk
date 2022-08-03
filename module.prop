@@ -1,7 +1,7 @@
-id=Greenify4Magisk
-name=Greenify4Magisk
-version=v4.7.5(Play Store)
-versionCode=1.1
-author=Rohan Debroy
-description=A very simple module to make Greenify work as a privileged app, to achieve a faster hibernation performance, systemlessly.
-support=https://github.com/rohandebroy55/Greenify4Magisk
+id=Greenify4Magisk-Final-Beta
+name=Greenify4Magisk-Beta
+version=v4.7.8(Play Store)
+versionCode=2.0
+author=Indspl0it (Credits to Rohan Debroy for stable v1.1)
+description=A very simple module to make Greenify work as a privileged app, to achieve a faster hibernation performance, systemlessly on A11 and A12
+support=https://github.com/Indspl0it/Greenify4Magisk-Final-Beta
