@@ -1,17 +1,31 @@
-<h1 align="center">Greenify4Magisk</h1>
+<h1 align="center">Greenify4Magisk Final beta</h1>
 
 
 ## Module Explanation:
 A very simple module just to make Greenify work as a rom-integrated (privileged) app systemlessly (also known as Boost Mode), so you'll achieve the best hibernating performance it could give, and faster than using the root option only. It'll simply inject a folder with the apk into the path: /system/priv-app. If it shows Privileged at the app settings, then you're good.
 
-* Note: You won't get any xposed-side features, since magisk is NOT xposed!
+Note: 
+- Follow [mm recovery module](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/releases) instructions in case of bootloop to disable/remove this module.
+
 
 ## Requirements: 
-- Android 5.0 - 10.0
+- Android 5.0 - 12.0
 - Magisk v20.0+
+- [Magisk-Manager for Recovery mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/releases)
 
 ## Changelog?:
 All notable changes to this project will be documented in this file.
+
+### 2022-08-03
+- Support for Magisk v23+
+- Greenify app updated to play store v4.7.8 beta (final release from dev)
+- Support for A11 and A12 - API level 32
+
+### Changelog from Greenify beta
+- Works with Android 12 Beta.
+- All Xposed features removed.
+- Fixed alarm analysis in App Analyzer for apps in Island.
+- Fixed pop-up menu of selected app not reflecting the actual settings.
 
 ### 2020-05-30
 - Support for Magisk v20.0 +
