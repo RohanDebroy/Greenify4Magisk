@@ -1,5 +1,8 @@
 <h1 align="center">Greenify4Magisk</h1>
 
+> **Warning** </br>
+> This module has been updated with the latest MMT-Extended template and greenify app. These updates are available in a distinct branch named `template-update`.
+> I haven't had the time to properly test it. So use at your own risk.
 
 ## Module Explanation:
 A very simple module just to make Greenify work as a rom-integrated (privileged) app systemlessly (also known as Boost Mode), so you'll achieve the best hibernating performance it could give, and faster than using the root option only. It'll simply inject a folder with the apk into the path: /system/priv-app. If it shows Privileged at the app settings, then you're good.
