@@ -36,7 +36,7 @@ All notable changes to this project will be documented in this file.
 
 # Credits:
 * Greenify Developer - [Oasis Feng](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify "Greenify's Play Store page").
-
+* Greenify4Magisk - [abacate123](https://forum.xda-developers.com/m/abacate123.6439974/)
 * Magisk Developer - [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445 "Magisk official XDA thread").
 
 ### Third party code used:
